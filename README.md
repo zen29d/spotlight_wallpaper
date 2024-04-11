@@ -1,2 +1,4 @@
-# spotlight_wallpaper
-Collect wallpaper from Window 10 Spotlight and save to desktop
+# Windows Spotlight Wallpaper
+Copy the wallpaper from Window Spotlight and save to desktop
+
+`execute this from cmd`
